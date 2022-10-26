@@ -1,0 +1,42 @@
+{ 
+    "skill1": {
+        "title": "Frontend",
+        "percent": "80%",
+        "color": "#e749a0"
+    },
+    "skill2": {
+        "title": "Backend",
+        "percent": "90%",
+        "color": "#87bdf4"
+    },
+    "skill3": {
+        "title": "Soft Skills",
+        "percent": "70%",
+        "color": "#f4a950"
+    },
+    "skill4": {
+        "title": "Programming Language",
+        "percent": "95%",
+        "color": "#8dd352"
+    },
+    "skill5": {
+        "title": " Javascript",
+        "percent": "82%",
+        "color": "#000000"
+    },
+    "skill6": {
+        "title": "PHP MODERN",
+        "percent": "75%",
+        "color": "#f75eee"
+    },
+    "skill7": {
+        "title": "UX",
+        "percent": "85%",
+        "color": "#009fdc"
+    },
+    "skill8": {
+        "title": "OOP",
+        "percent": "99%",
+        "color": "#f8874f"
+    }
+}

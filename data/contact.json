@@ -1,0 +1,22 @@
+{
+    "call": {
+        "title": "mobile phone",
+        "icon": "fas fa-phone",
+        "content": "00 0000 000 00"
+    },
+    "chat": {
+        "title": "Message via WhatsApp",
+        "icon": "fab fa-whatsapp",
+        "content": "00 0000 00 00"
+    },
+    "email1": {
+        "title": "personal email",
+        "icon": "fas fa-envelope",
+        "content": "example1@example.com"
+    },
+    "email2": {
+        "title": "work email",
+        "icon": "fas fa-envelope",
+        "content": "example1@example.com"
+    }
+}

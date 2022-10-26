@@ -1,0 +1,20 @@
+{
+    "learning1": {
+        "title": "Become a MERN Stack JavaScript Developer",
+        "icon": "fas fa-graduation-cap",
+        "time": "May - 2020",
+        "content": "There are many types of Lorem Ipsum texts available, but most have been modified in some form via"
+    },
+    "learning2": {
+        "title": "Building RESTful APIs with Node.js and Express",
+        "icon": "fas fa-graduation-cap",
+        "time": "May - 2018",
+        "content": "There are many types of Lorem Ipsum texts available, but most have been modified in some form via"
+    },
+    "learning3": {
+        "title": "Learning Full-Stack JavaScript Development: MongoDB, Node, and React",
+        "icon": "fas fa-graduation-cap",
+        "time": "May - 2015",
+        "content": "There are many types of Lorem Ipsum texts available, but most have been modified in some form via"
+    }
+}

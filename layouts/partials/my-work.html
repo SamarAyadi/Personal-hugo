@@ -1,0 +1,28 @@
+<div class="card card--full">
+    <h2>My previous work</h2>
+
+    <div class="slides-container" id="work">
+
+        <div class="slide-container__wraper">
+
+            {{ range .Site.Data.work }}
+
+            <div class="slides fade">
+                <div class="image-holder">
+                    <img src="{{ .src }}" alt="Work Gallery">
+                </div>
+            </div>
+
+            {{ end }}
+
+        </div>
+
+        <div class="slides-BTNS">
+            <span class="prev"><i class="fas fa-chevron-left"></i></span>
+            <span class="next"><i class="fas fa-chevron-right"></i></span>
+            
+        </div>
+
+    </div>
+
+</div>

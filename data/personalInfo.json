@@ -1,0 +1,22 @@
+{
+    "fullName": {
+        "title": "Name",
+        "icon": "fas fa-user-alt",
+        "content": "Pingucoder"
+    },
+    "maritalStatus": {
+        "title": "marital status",
+        "icon": "fas fa-heart",
+        "content": "bachelor"
+    },
+    "myBirthday": {
+        "title": "date of birth",
+        "icon": "fas fa-birthday-cake",
+        "content": "5-5-1999"
+    },
+    "nationality": {
+        "title": "nationality",
+        "icon": "fas fa-flag",
+        "content": "Tunisian"
+    }
+}
